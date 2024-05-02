@@ -11,3 +11,9 @@ Build a responsive web page using appropriate HTML tags and attributes to struct
   <li>Use fluid units and media queries to make a website work well across different screens.</li>
 </ul>
 
+## Tools and stack:
+HTML / CSS 
+
+## Project links:
+### Website: [Visit the website](https://vsafonova.github.io/90s-inspired-website/)
+
